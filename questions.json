@@ -1,0 +1,69 @@
+{
+  "categories": [
+    {
+      "name": "Science",
+      "questions": [
+        {
+          "question": "What planet is closest to the sun?",
+          "choices": ["Earth", "Mars", "Mercury", "Venus"],
+          "answer": "Mercury"
+        },
+        {
+          "question": "What gas do plants absorb from the atmosphere?",
+          "choices": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Hydrogen"],
+          "answer": "Carbon Dioxide"
+        },
+        {
+          "question": "How many bones are in the adult human body?",
+          "choices": ["206", "186", "226", "196"],
+          "answer": "206"
+        }
+      ]
+    },
+    {
+      "name": "History",
+      "questions": [
+        {
+          "question": "In what year did World War 2 end?",
+          "choices": ["1943", "1944", "1945", "1946"],
+          "answer": "1945"
+        },
+        {
+          "question": "Who was the first President of the United States?",
+          "choices": ["John Adams", "Thomas Jefferson", "George Washington", "Benjamin Franklin"],
+          "answer": "George Washington"
+        },
+        {
+          "question": "What ancient wonder was located in Alexandria?",
+          "choices": ["The Colossus", "The Lighthouse", "The Hanging Gardens", "The Sphinx"],
+          "answer": "The Lighthouse"
+        }
+      ]
+    },
+    {
+      "name": "Technology",
+      "questions": [
+        {
+          "question": "What does CPU stand for?",
+          "choices": ["Central Processing Unit", "Core Processing Unit", "Central Program Utility", "Computer Processing Unit"],
+          "answer": "Central Processing Unit"
+        },
+        {
+          "question": "Which company created JavaScript?",
+          "choices": ["Microsoft", "Google", "Netscape", "Apple"],
+          "answer": "Netscape"
+        },
+        {
+          "question": "What does HTML stand for?",
+          "choices": ["HyperText Markup Language", "HighText Machine Language", "HyperText Machine Language", "HighText Markup Language"],
+          "answer": "HyperText Markup Language"
+        },
+        {
+            "question": "Which is NOT a TCP/IP protocol layer?",
+          "choices": ["Application", "Transplant", "Network", "Link"],
+          "answer": "Transplant"}
+        
+      ]
+    }
+  ]
+}
