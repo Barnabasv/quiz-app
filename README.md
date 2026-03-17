@@ -9,7 +9,7 @@ This was my first solo coding project, built as part of my journey transitioning
 # Features
 
 - Multiple choice questions
-- [X] categories: Science, History and Technology
+- Categories: Science, History and Technology
 - Score tracking saved to a local JSON file
 - Interactive terminal prompts using @inquirer/prompts
 
